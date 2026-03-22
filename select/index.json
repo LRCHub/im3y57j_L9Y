@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あいわな",
+  "base_artist": "湊あくあ",
+  "createdAt": "2026-03-22T15:14:03.527413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいわな",
+      "artist": "湊あくあ",
+      "has_synced": false,
+      "path": "select/01_あいわな_湊あくあ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいわな",
+      "artist": "湊あくあ",
+      "has_synced": true,
+      "path": "select/02_あいわな_湊あくあ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいわな",
+      "artist": "湊あくあ",
+      "has_synced": false,
+      "path": "select/pl_01_あいわな_湊あくあ.txt"
+    }
+  ]
+}
